@@ -30,18 +30,18 @@ Ext.define('ExtMap.view.main.Main', {
             itemId: 'headerBar',
             items: [
                 {
-                    xtype: 'component',
-                    reference: 'appLogo',
-                    cls: 'app-logo',
-                    html: '<div class="main-logo"><img src="resources/images/app-logo.png">ExtMap</div>',
-                    width: 250
-                },
-                {
-                    margin: '0 0 0 8',
-                    ui: 'header',
+                    ui: 'AppMenuToggle',
+                    width: 64,
                     iconCls:'x-fa fa-navicon',
                     id: 'main-navigation-btn',
                     handler: 'onToggleNavigationSize'
+                },
+                {
+                    xtype: 'component',
+                    reference: 'appLogo',
+                    cls: 'app-logo',
+                    html: '<div class="logo"><b>系统主标题&nbsp;|</b>&nbsp;子标题</div>'
+                    // width: 250
                 },
                 '->',
                 {

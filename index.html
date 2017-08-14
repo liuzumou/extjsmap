@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10, user-scalable=yes">
 
-    <title>ExtMap</title>
+    <title>ExtJS 地图框架</title>
 
     <!--
     <script type="text/javascript">
@@ -48,6 +48,18 @@
     
     <!-- The line below must be kept intact for Sencha Cmd to build your application -->
     <script id="microloader" data-app="80c5c8fe-3cdc-4a02-94b3-e48e566f1603" type="text/javascript" src="bootstrap.js"></script>
+    <script type="text/javascript">
+        var dojoConfig = {
+            packages: [{
+                name: 'gis',
+                location: location.pathname.replace(/\/[^/]+$/, "") + '/3rd/gis'
+            }]
+        };
+    </script>
+    <link rel="stylesheet" href="https://js.arcgis.com/3.21/esri/css/esri.css">
+    <script src="https://js.arcgis.com/3.21/"></script>
+    <script src="3rd/gis/terraformer.min.js"></script>
+    <script src="3rd/gis/terraformer-arcgis-parser.min.js"></script>
 
 </head>
 <body></body>

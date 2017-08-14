@@ -94,7 +94,7 @@ Ext.define('ExtMap.view.main.MainController', {
         if (Ext.isIE9m || !Ext.os.is.Desktop) {
             Ext.suspendLayouts();
 
-            refs.appLogo.setWidth(new_width);
+            // refs.appLogo.setWidth(new_width);
 
             navigationList.setWidth(new_width);
             navigationList.setMicro(collapsing);
@@ -113,7 +113,7 @@ Ext.define('ExtMap.view.main.MainController', {
             }
 
             // Start this layout first since it does not require a layout
-            refs.appLogo.animate({dynamic: true, to: {width: new_width}});
+            // refs.appLogo.animate({dynamic: true, to: {width: new_width}});
 
             // Directly adjust the width config and then run the main wrap container layout
             // as the root layout (it and its chidren). This will cause the adjusted size to
