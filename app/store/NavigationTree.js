@@ -11,7 +11,7 @@ Ext.define('ExtMap.store.NavigationTree', {
         expanded: true,
         children: [
             {
-                text: '地图',
+                text: '地图查询',
                 iconCls: 'x-fa fa-desktop',
                 rowCls: 'nav-tree-badge nav-tree-badge-new',
                 viewType: 'mapview',

@@ -26,7 +26,12 @@ Ext.define('ExtMap.view.Map', {
 
     createMap: function() {
         var me=this;
-        require(["esri/map","gis/TiandituLayer", "gis/GeojsonLayer","dojo/domReady!"], function(Map,TiandituLayer,GeojsonLayer) {
+        require(["esri/map","esri/InfoTemplate",
+            "esri/renderers/jsonUtils",
+            "gis/TiandituLayer", "gis/GeojsonLayer",
+            "dojo/domReady!"], function(Map,InfoTemplate,
+                                        jsonUtils,
+                                        TiandituLayer,GeojsonLayer) {
             //this.body.dom
             var map = new Map(me.getId(), {
                 //basemap: "topo",  //For full list of pre-defined basemaps, navigate to http://arcg.is/1JVo6Wd
@@ -35,17 +40,20 @@ Ext.define('ExtMap.view.Map', {
                 showLabels : true
             });
 
-            //底图--天地图
-            var baseLayer = new TiandituLayer({type:'vec',wkid:4326});
+            //底图--天地图 vec/img/ter
+            var baseLayer = new TiandituLayer({type:'ter',wkid:4326});
             baseLayer.id = "BASE_LYR";
-            var annolayer = new TiandituLayer({type:'cva',wkid:4326});
+            var annolayer = new TiandituLayer({type:'cta',wkid:4326});
             annolayer.id = "ANNO_LYR";
             map.addLayer(baseLayer);
             map.addLayer(annolayer);
 
-            //业务边界--geoJson
-            var geoJsonLayer = new GeojsonLayer({url:"data/map/boundary/jiangxi.json"});
-            map.addLayer(geoJsonLayer);
+            //边界图层--geoJson
+            var boundaryLayer = new GeojsonLayer({url:"data/map/boundary/hunan.json",infoTemplate:false});
+            boundaryLayer.id = "boudaryLayer";
+            boundaryLayer.renderer = jsonUtils.fromJson(mapconfig.renderers.boundary);
+            map.addLayer(boundaryLayer);
+
 
             me.setMap(map);
             me.fireEvent('mapInit',map);
@@ -72,7 +80,6 @@ Ext.define('ExtMap.view.Map', {
         if (map) {
             map.resize();
             map.reposition(true);
-            console.log('map resize');
         }
     }
 

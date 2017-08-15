@@ -40,8 +40,45 @@ Ext.define('ExtMap.view.main.Main', {
                     xtype: 'component',
                     reference: 'appLogo',
                     cls: 'app-logo',
-                    html: '<div class="logo"><b>系统主标题&nbsp;|</b>&nbsp;子标题</div>'
+                    html: '<div class="logo"><b>信息管理系统&nbsp;|</b>&nbsp;子标题</div>'
                     // width: 250
+                },
+                {
+                    margin: '0 0 0 200',
+                    xtype: 'segmentedbutton',
+                    height:65,
+                    defaults:{
+                        ui:'topMenu',
+                        iconAlign: 'top',
+                        scale: 'medium'//medium/large
+                    },
+                    items: [
+                        {
+                            topId: 'information',
+                            reference: 'informationTopBtn',
+                            text: '地图查询',
+                            iconCls: 'x-fa fa-map-o'
+
+                        }, {
+                            topId: 'convoperation',
+                            reference: 'convoperationTopBtn',
+                            text: '信息查询',
+                            iconCls: 'x-fa fa-search'
+                        }, {
+                            topId: 'emeroperation',
+                            reference: 'emeroperationTopBtn',
+                            text: '统计分析',
+                            iconCls: 'x-fa  fa-bar-chart'
+                        }, {
+                            topId: 'consultation',
+                            reference: 'consultationTopBtn',
+                            text: '系统设置',
+                            iconCls: 'x-fa fa-cogs'
+                        }
+                    ],
+                    listeners: {
+                        toggle:'onMainMenuToggle'
+                    }
                 },
                 '->',
                 {

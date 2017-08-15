@@ -79,6 +79,19 @@
     }
 }
 
+//一级菜单
+@include extjs-button-medium-ui(
+        $ui: 'topMenu',
+            //$background-color: $base-color,
+            //$background-color: transparent,
+        $inner-border-width:0,
+        $border-width: 0,
+        $color :#fff,
+        $glyph-color: $lightest-color,
+        $font-family :'微软雅黑',
+        $font-weight-pressed :bold
+);
+
 
 
 @include treelist-ui(

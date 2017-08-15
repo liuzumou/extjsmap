@@ -20,6 +20,15 @@ Ext.define('ExtMap.view.map.MapView',{
             listeners: {
                 mapInit:'onMapInit'
             }
+        },
+        {
+            xtype:'panel',
+            reference:'legend',
+            title: '图例',
+            floating:true,
+            width:120,
+            height:220,
+            html:'<div id="legendDiv"></div>'
         }
     ]
 });

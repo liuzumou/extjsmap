@@ -1,0 +1,5268 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.8667,27.2333 ]
+      },
+      "properties": {
+        "STNM":"衡山",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡山县城关镇湘江街",
+        "WR1":"湘江衡阳～株洲保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"IV",
+        "RESULT":"不达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.18,25.34 ]
+      },
+      "properties": {
+        "STNM":"岭脚村",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"蓝山县岭脚村",
+        "WR1":"舂陵水蓝山源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"III",
+        "RESULT":"不达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.633,28.167 ]
+      },
+      "properties": {
+        "STNM":"浏阳",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"浏阳市浏阳大桥",
+        "WR1":"浏阳河浏阳开发利用区",
+        "WR2":"浏阳河浏阳城关镇工业用水区",
+        "TWQ":"III",
+        "WQ":"IV",
+        "RESULT":"不达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.31,27.71 ]
+      },
+      "properties": {
+        "STNM":"月光潭",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"新化县月光潭水厂",
+        "WR1":"资水冷水江～新化开发利用区",
+        "WR2":"资水新化月光潭饮用水源区                               ",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.65,26.49 ]
+      },
+      "properties": {
+        "STNM":"下河线",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"冷水滩区下河线",
+        "WR1":"湘江永州开发利用区",
+        "WR2":"湘江冷水滩工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.8667,26.5833 ]
+      },
+      "properties": {
+        "STNM":"祁阳",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"祁阳县宝塔街",
+        "WR1":"湘江永州～衡南保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.1833,26.55 ]
+      },
+      "properties": {
+        "STNM":"归阳",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"祁东县归阳镇前进村",
+        "WR1":"湘江永州～衡南保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.59,26.59 ]
+      },
+      "properties": {
+        "STNM":"松柏",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡南县松柏镇",
+        "WR1":"湘江永州～衡南保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.5833,26.8 ]
+      },
+      "properties": {
+        "STNM":"文昌",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳市雁峰区文昌村",
+        "WR1":"湘江永州～衡南保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.6167,26.8833 ]
+      },
+      "properties": {
+        "STNM":"南大桥",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳湘江南大桥",
+        "WR1":"湘江衡阳开发利用区",
+        "WR2":"湘江衡阳城南区饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.65,26.95 ]
+      },
+      "properties": {
+        "STNM":"衡阳",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳市西湖乡江霞村",
+        "WR1":"湘江衡阳开发利用区",
+        "WR2":"湘江衡阳耒河口～站门前过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.63,26.91 ]
+      },
+      "properties": {
+        "STNM":"合江套",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳合江套",
+        "WR1":"湘江衡阳开发利用区",
+        "WR2":"湘江衡阳合江套排污控制区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.71,27.01 ]
+      },
+      "properties": {
+        "STNM":"站门前",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳站门前",
+        "WR1":"湘江衡阳开发利用区",
+        "WR2":"湘江衡阳耒河口～站门前过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.7667,26.9833 ]
+      },
+      "properties": {
+        "STNM":"大浦",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳市大浦镇",
+        "WR1":"湘江衡阳～株洲保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.2833,26.3 ]
+      },
+      "properties": {
+        "STNM":"绿埠头",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"东安县绿埠头乡大龙村",
+        "WR1":"湘江桂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9833,27.4167 ]
+      },
+      "properties": {
+        "STNM":"三樟",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡山县三樟乡",
+        "WR1":"湘江衡阳～株洲保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9833,27.45 ]
+      },
+      "properties": {
+        "STNM":"洲坪",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"株洲航电枢纽空洲水电站",
+        "WR1":"湘江衡阳～株洲保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.13,27.84 ]
+      },
+      "properties": {
+        "STNM":"石峰",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"株洲市石峰区贺家土",
+        "WR1":"湘江株洲开发利用区",
+        "WR2":"湘江株洲市区饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.15,27.8167 ]
+      },
+      "properties": {
+        "STNM":"株洲",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"株洲市芦淞区月形山",
+        "WR1":"湘江株洲开发利用区",
+        "WR2":"湘江株洲市区饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.0833,27.8667 ]
+      },
+      "properties": {
+        "STNM":"霞湾",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"株洲市霞湾港下游1000米",
+        "WR1":"湘江株洲开发利用区",
+        "WR2":"湘江株洲霞湾港排污控制区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.0333,27.8333 ]
+      },
+      "properties": {
+        "STNM":"马家河",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭市岳塘区马家河镇",
+        "WR1":"湘江株洲开发利用区",
+        "WR2":"湘江株洲马家河过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9,27.81 ]
+      },
+      "properties": {
+        "STNM":"铁牛埠",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭市岳塘区下摄司",
+        "WR1":"湘江湘潭开发利用区",
+        "WR2":"湘江湘潭城区饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9167,27.8667 ]
+      },
+      "properties": {
+        "STNM":"湘潭",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭市沿江东路90号",
+        "WR1":"湘江湘潭开发利用区",
+        "WR2":"湘江湘潭城区饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9833,27.9667 ]
+      },
+      "properties": {
+        "STNM":"昭山",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭昭山镇",
+        "WR1":"湘江湘潭开发利用区",
+        "WR2":"湘江湘潭昭山工业、农业用水区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.94,28.08 ]
+      },
+      "properties": {
+        "STNM":"暮云",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市暮云市",
+        "WR1":"湘江湘潭开发利用区",
+        "WR2":"湘江湘潭昭山～暮云过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.95,28.1667 ]
+      },
+      "properties": {
+        "STNM":"猴子石",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市猴子石大桥",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙暮云～傅家洲饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.95,28.22 ]
+      },
+      "properties": {
+        "STNM":"长沙",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市区",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙三叉矶工业用水区、湘江长沙开福区工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.93,28.29 ]
+      },
+      "properties": {
+        "STNM":"岳华",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市岳华",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙捞霞工业用水区（右岸）",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.97,28.26 ]
+      },
+      "properties": {
+        "STNM":"马厂",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市马厂",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙浏渭河口～捞刀河口过渡区（右岸）",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.86,28.37 ]
+      },
+      "properties": {
+        "STNM":"丁字",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"望城县丁字镇",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙霞凝过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.83,28.41 ]
+      },
+      "properties": {
+        "STNM":"丁白渡口",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"望城县新康乡",
+        "WR1":"湘江长沙开发利用区",
+        "WR2":"湘江长沙望城饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.8167,28.4667 ]
+      },
+      "properties": {
+        "STNM":"铜官",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市望城县",
+        "WR1":"湘江望城～湘阴保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.74,28.51 ]
+      },
+      "properties": {
+        "STNM":"乔口",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市望城县乔口镇",
+        "WR1":"湘江望城～湘阴保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.3156,26.4 ]
+      },
+      "properties": {
+        "STNM":"东安",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"东安县城下游",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.394,26.316 ]
+      },
+      "properties": {
+        "STNM":"紫溪河口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"东安县大江口乡塘板村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.94,24.96 ]
+      },
+      "properties": {
+        "STNM":"凌江口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"江华凌江河口",
+        "WR1":"潇水凌江江华源头水保护区",
+        "WR2":"0",
+        "TWQ":"I",
+        "WQ":"I",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.84,24.98 ]
+      },
+      "properties": {
+        "STNM":"麻江口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"江华麻江河口",
+        "WR1":"潇水麻江江华源头水保护区",
+        "WR2":"0",
+        "TWQ":"I",
+        "WQ":"I",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.031738,24.912086 ]
+      },
+      "properties": {
+        "STNM":"码市",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"江华县码市镇 ",
+        "WR1":"潇水蓝山～江华源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.58,25.52 ]
+      },
+      "properties": {
+        "STNM":"道县",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"道县道江镇小江口（水厂）",
+        "WR1":"潇水江华～永州保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.6833,25.9667 ]
+      },
+      "properties": {
+        "STNM":"双牌",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"双牌县城",
+        "WR1":"潇水江华～永州保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.63,26.19 ]
+      },
+      "properties": {
+        "STNM":"南津渡",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"南津渡水电站引水渠内",
+        "WR1":"潇水永州开发利用区",
+        "WR2":"潇水永州芝山饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.61,26.25 ]
+      },
+      "properties": {
+        "STNM":"潇水河口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"零陵区潇水河口",
+        "WR1":"潇水永州开发利用区",
+        "WR2":"潇水永州芝山工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.4755556,26.61638889 ]
+      },
+      "properties": {
+        "STNM":"伍家村",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"东安县芦洪市镇伍家村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.6444444,26.50944444 ]
+      },
+      "properties": {
+        "STNM":"芦洪江口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"冷水滩区小江口",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.91,25.6 ]
+      },
+      "properties": {
+        "STNM":"宁远",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"宁远县城下游",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.78,26.79 ]
+      },
+      "properties": {
+        "STNM":"砖塘",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"祁东县砖塘镇长坝村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.85,26.7 ]
+      },
+      "properties": {
+        "STNM":"下马渡",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"祁阳县下马渡镇下马渡村（下马渡水文站）",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.87,26.589 ]
+      },
+      "properties": {
+        "STNM":"祁水河口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"祁阳县浯溪镇塔边村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.24,26.118 ]
+      },
+      "properties": {
+        "STNM":"民族",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"桂阳县杨柳乡民族村",
+        "WR1":"109",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.0833,26.2667 ]
+      },
+      "properties": {
+        "STNM":"金洞",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"金洞水文站(晒白滩)",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.9833,26.4333 ]
+      },
+      "properties": {
+        "STNM":"白水口",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"永州市祁阳县白水镇白水大桥",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3833,26.42 ]
+      },
+      "properties": {
+        "STNM":"常宁水厂",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"常宁市城关镇",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.386,26.542 ]
+      },
+      "properties": {
+        "STNM":"宜水河口",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"常宁市江河乡",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.58,26.43 ]
+      },
+      "properties": {
+        "STNM":"宋家洲",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"冷水滩城区宋家洲电站",
+        "WR1":"湘江永州开发利用区",
+        "WR2":"湘江永州宋家洲饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.22,25.37 ]
+      },
+      "properties": {
+        "STNM":"蓝山",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"蓝山水文站",
+        "WR1":"舂陵水蓝山～常宁保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.342194,25.535239 ]
+      },
+      "properties": {
+        "STNM":"社下村",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"蓝山县土市乡社下村",
+        "WR1":"舂陵水蓝山～常宁保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.6833,26.1167 ]
+      },
+      "properties": {
+        "STNM":"欧阳海",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"桂阳县桥头乡大滩村（欧阳海水文站）",
+        "WR1":"舂陵水蓝山～常宁保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.05,26.183 ]
+      },
+      "properties": {
+        "STNM":"塘门口",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"永兴县塘门口镇",
+        "WR1":"耒水郴州～耒阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.619,26.604 ]
+      },
+      "properties": {
+        "STNM":"舂陵水口",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡南县廖田镇河口村",
+        "WR1":"舂陵水蓝山～常宁保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.95,27.12 ]
+      },
+      "properties": {
+        "STNM":"佘田桥",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"湘江",
+        "ADDR":"邵东县佘田桥镇",
+        "WR1":"蒸水邵东源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.317,27.15 ]
+      },
+      "properties": {
+        "STNM":"石门坎",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"石门坎水文站",
+        "WR1":"蒸水邵东～衡阳县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.38,26.99 ]
+      },
+      "properties": {
+        "STNM":"花果山",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳县西渡镇花果山(水厂)",
+        "WR1":"蒸水衡阳开发利用区",
+        "WR2":"蒸水衡阳县饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.4333,26.9 ]
+      },
+      "properties": {
+        "STNM":"神山头",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡南县三塘镇神山头村（神山头水文站）",
+        "WR1":"蒸水衡阳市～衡阳县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.61,26.92 ]
+      },
+      "properties": {
+        "STNM":"蒸水河口",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳市草桥",
+        "WR1":"蒸水衡阳市开发利用区",
+        "WR2":"蒸水衡阳市工业用水区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.683,25.765 ]
+      },
+      "properties": {
+        "STNM":"南洞",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"汝城县淇南村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.475,25.574 ]
+      },
+      "properties": {
+        "STNM":"黄草坪",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"资兴市黄草镇羊兴村浙江大桥",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.358,25.384 ]
+      },
+      "properties": {
+        "STNM":"文明",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"汝城县文明镇沙洲村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.573,25.994 ]
+      },
+      "properties": {
+        "STNM":"资兴江口",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"资兴市青腰镇",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.45,25.817 ]
+      },
+      "properties": {
+        "STNM":"飞仙",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"桂阳县飞仙水文站",
+        "WR1":"舂陵水蓝山～常宁保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.33,25.854 ]
+      },
+      "properties": {
+        "STNM":"东江水库",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"资兴市东江水库",
+        "WR1":"耒水桂东～资兴水源水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.15,25.95 ]
+      },
+      "properties": {
+        "STNM":"东江",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"资兴市东江乡小东江坝下",
+        "WR1":"耒水资兴～苏仙开发利用区",
+        "WR2":"耒水资兴凉树湾饮用、景观用水区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.167,25.91 ]
+      },
+      "properties": {
+        "STNM":"桥口",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"资兴市桥口镇清东村清江大桥",
+        "WR1":"耒水资兴～苏仙开发利用区",
+        "WR2":"耒水资兴～苏仙工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.1,26.15 ]
+      },
+      "properties": {
+        "STNM":"永兴",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"郴州市永兴县城关镇",
+        "WR1":"耒水郴州～耒阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.87,26.36 ]
+      },
+      "properties": {
+        "STNM":"沙头大桥",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"耒阳市沙头大桥",
+        "WR1":"耒水耒阳开发利用区",
+        "WR2":"耒水耒阳泗门洲饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.8667,26.4167 ]
+      },
+      "properties": {
+        "STNM":"耒阳",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"耒阳市城关镇金南村",
+        "WR1":"耒水耒阳开发利用区",
+        "WR2":"耒水耒阳城区工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.6333,26.9167 ]
+      },
+      "properties": {
+        "STNM":"耒水河口",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡阳市耒水河口",
+        "WR1":"耒水耒阳～衡阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.0333,25.8 ]
+      },
+      "properties": {
+        "STNM":"郴州",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"郴州市郴州铁路桥",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.68,26.42 ]
+      },
+      "properties": {
+        "STNM":"大桥头",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"炎陵县大桥头",
+        "WR1":"洣水炎陵源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.54,26.8 ]
+      },
+      "properties": {
+        "STNM":"茶陵",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"茶陵县城关镇",
+        "WR1":"洣水炎陵～衡山保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.34,26.99 ]
+      },
+      "properties": {
+        "STNM":"攸县",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"攸县县城",
+        "WR1":"洣水炎陵～衡山保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.23,26.95 ]
+      },
+      "properties": {
+        "STNM":"谢家屋场",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡东县草市镇谢家屋场",
+        "WR1":"洣水炎陵～衡山保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.933,27.0833 ]
+      },
+      "properties": {
+        "STNM":"衡东",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡东县城关镇沿江大道（衡东水文站）",
+        "WR1":"洣水炎陵～衡山保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.87,27.17 ]
+      },
+      "properties": {
+        "STNM":"洣水河口",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"洣水河口",
+        "WR1":"洣水炎陵～衡山保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.733,26.483 ]
+      },
+      "properties": {
+        "STNM":"炎陵",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"炎陵水文站",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.3667,27 ]
+      },
+      "properties": {
+        "STNM":"攸水河口",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"攸县攸水河口",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.3,26.683 ]
+      },
+      "properties": {
+        "STNM":"安仁",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"湘江",
+        "ADDR":"安仁水文站",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.65,27.6667 ]
+      },
+      "properties": {
+        "STNM":"金鱼石",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"湖南省醴陵市王坊镇金鱼石",
+        "WR1":"渌水赣湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.45,27.6667 ]
+      },
+      "properties": {
+        "STNM":"大西滩",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"醴陵市大西滩水文站",
+        "WR1":"渌水醴陵开发利用区",
+        "WR2":"渌水醴陵市工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.13,27.68 ]
+      },
+      "properties": {
+        "STNM":"渌水河口",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"渌水河口",
+        "WR1":"渌水醴陵～株洲保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.63,27.4 ]
+      },
+      "properties": {
+        "STNM":"白果",
+        "LY":"长江",
+        "CITY":"衡阳",
+        "RIVER":"湘江",
+        "ADDR":"衡山县白果镇",
+        "WR1":"涓水衡山源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.648738,27.458854 ]
+      },
+      "properties": {
+        "STNM":"犁头咀",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭县龙口乡犁头咀",
+        "WR1":"涓水衡山～湘潭保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.92,27.78 ]
+      },
+      "properties": {
+        "STNM":"涓水河口",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘潭县易俗河镇",
+        "WR1":"涓水衡山～湘潭保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.63,27.66 ]
+      },
+      "properties": {
+        "STNM":"麻如塘",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"涟源市麻如塘",
+        "WR1":"涟水新邵～涟源缓冲区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.68,27.683 ]
+      },
+      "properties": {
+        "STNM":"涟源",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"涟源市涟源水文站",
+        "WR1":"涟水涟源开发利用区",
+        "WR2":"涟水涟源工业用水区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.88,27.78 ]
+      },
+      "properties": {
+        "STNM":"渡头塘",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"涟源市渡头塘",
+        "WR1":"涟水涟源～娄底保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.99,27.76 ]
+      },
+      "properties": {
+        "STNM":"娄底",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"娄底市涟钢钢索桥",
+        "WR1":"涟水娄底开发利用区",
+        "WR2":"涟水娄底涟钢饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.04,27.76 ]
+      },
+      "properties": {
+        "STNM":"江龙滩桥",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"娄底市娄星区西阳乡江龙村",
+        "WR1":"涟水娄底开发利用区",
+        "WR2":"涟水娄底娄星工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.112678,27.740061 ]
+      },
+      "properties": {
+        "STNM":"曾家排",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"娄底市娄星区曾家排",
+        "WR1":"涟水娄底开发利用区",
+        "WR2":"涟水娄底过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3167,27.6343 ]
+      },
+      "properties": {
+        "STNM":"洋潭",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘乡市洋潭拱坝下",
+        "WR1":"涟水娄底～湘乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.49,27.68 ]
+      },
+      "properties": {
+        "STNM":"洙津渡",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘乡市株津渡",
+        "WR1":"涟水湘乡开发利用区",
+        "WR2":"涟水湘乡株津渡饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.5167,27.7167 ]
+      },
+      "properties": {
+        "STNM":"湘乡",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"湘乡城关镇昆仑桥",
+        "WR1":"涟水湘乡开发利用区",
+        "WR2":"涟水湘乡城区工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.87,27.8 ]
+      },
+      "properties": {
+        "STNM":"涟水河口",
+        "LY":"长江",
+        "CITY":"湘潭",
+        "RIVER":"湘江",
+        "ADDR":"涟水河口",
+        "WR1":"涟水湘乡～湘潭保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.9833,27.7167 ]
+      },
+      "properties": {
+        "STNM":"石安",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"娄底市石安",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.2,27.4833 ]
+      },
+      "properties": {
+        "STNM":"双峰",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"湘江",
+        "ADDR":"双峰水文站",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.9533,28.19 ]
+      },
+      "properties": {
+        "STNM":"株树桥",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"浏阳市株树桥水库",
+        "WR1":"小溪河浏阳源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.93,28.43 ]
+      },
+      "properties": {
+        "STNM":"达浒",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"浏阳市达浒镇",
+        "WR1":"浏阳河浏阳源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.6833,28.2 ]
+      },
+      "properties": {
+        "STNM":"浏阳双江口",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"浏阳市双江口水文站",
+        "WR1":"浏阳河浏阳保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.667,28.167 ]
+      },
+      "properties": {
+        "STNM":"浏阳水厂",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"浏阳市水厂取水口",
+        "WR1":"浏阳河浏阳开发利用区",
+        "WR2":"浏阳河浏阳双江口饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.62,26.45 ]
+      },
+      "properties": {
+        "STNM":"冷水滩",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"冷水滩区城区",
+        "WR1":"湘江永州开发利用区",
+        "WR2":"湘江冷水滩工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.06,28.13 ]
+      },
+      "properties": {
+        "STNM":"东山",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市黎托镇东山",
+        "WR1":"浏阳河浏阳～长沙保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.0833,28.1667 ]
+      },
+      "properties": {
+        "STNM":"朗梨",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙县朗梨水文站",
+        "WR1":"浏阳河长沙开发利用区",
+        "WR2":"浏阳河黄兴～圭塘河口工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9833,28.25 ]
+      },
+      "properties": {
+        "STNM":"浏渭河口",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市区",
+        "WR1":"浏阳河长沙开发利用区",
+        "WR2":"浏阳河圭塘河口～三角洲排污控制区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.1,28.2767 ]
+      },
+      "properties": {
+        "STNM":"星沙",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市星沙水厂取水口上游100米",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9667,28.2667 ]
+      },
+      "properties": {
+        "STNM":"捞刀河口",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市郊综合农场煤油池",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.09,28.14 ]
+      },
+      "properties": {
+        "STNM":"黄材水库",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"宁乡县黄材水库",
+        "WR1":"沩水黄材水库源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.55,28.22 ]
+      },
+      "properties": {
+        "STNM":"珍洲",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"宁乡县珍洲",
+        "WR1":"沩水宁乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.56,28.25 ]
+      },
+      "properties": {
+        "STNM":"鳝鱼洲",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"宁乡县鳝鱼洲",
+        "WR1":"沩水宁乡开发利用区",
+        "WR2":"沩水宁乡饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.5666,28.2668 ]
+      },
+      "properties": {
+        "STNM":"宁乡",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"长沙市宁乡水文站",
+        "WR1":"沩水宁乡开发利用区",
+        "WR2":"沩水宁乡工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.8,28.3833 ]
+      },
+      "properties": {
+        "STNM":"沩水大桥",
+        "LY":"长江",
+        "CITY":"长沙",
+        "RIVER":"湘江",
+        "ADDR":"望城县城郊",
+        "WR1":"沩水宁乡～望城保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.492,25.308 ]
+      },
+      "properties": {
+        "STNM":"长河",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"临武县花塘乡长河水库大坝",
+        "WR1":"武水临武源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.597,25.301 ]
+      },
+      "properties": {
+        "STNM":"临武",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"临武县武水镇双塘村左家组临东桥",
+        "WR1":"武水临武～宜章保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.85,25.2833 ]
+      },
+      "properties": {
+        "STNM":"岑水",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"临武县岑水村",
+        "WR1":"武水湘粤缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.85,24.97 ]
+      },
+      "properties": {
+        "STNM":"水定",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"宜章县莽山瑶族乡水定村",
+        "WR1":"南花溪（长乐水）莽山保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.78,25.13 ]
+      },
+      "properties": {
+        "STNM":"黄沙",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"宜章县新桥大桥",
+        "WR1":"南花溪(长乐水)宜章保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.9833,25.2333 ]
+      },
+      "properties": {
+        "STNM":"明星桥",
+        "LY":"珠江",
+        "CITY":"郴州",
+        "RIVER":"武水",
+        "ADDR":"宜章县栗源乡明星桥",
+        "WR1":"南花溪(长乐水)湘粤缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.79,26.28 ]
+      },
+      "properties": {
+        "STNM":"窑市",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"新宁县莨山镇窑市村",
+        "WR1":"夫夷水桂湘缓冲区 ",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.82,26.38 ]
+      },
+      "properties": {
+        "STNM":"莨山",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"新宁县莨山",
+        "WR1":"资水（夫夷水）新宁莨山自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.8667,26.45 ]
+      },
+      "properties": {
+        "STNM":"新宁",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"新宁县金石镇观瀑村",
+        "WR1":"资水（夫夷水）新宁～邵阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.25,27.0167 ]
+      },
+      "properties": {
+        "STNM":"塘渡口",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳县塘渡口镇（塘渡口水文站）",
+        "WR1":"资水（夫夷水）新宁～邵阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.267,27.0167 ]
+      },
+      "properties": {
+        "STNM":"邵阳双江口",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳县塘渡口镇双江口",
+        "WR1":"资水邵阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.43,27.21 ]
+      },
+      "properties": {
+        "STNM":"桂花渡",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳市城区桂花渡",
+        "WR1":"资水邵阳开发利用区",
+        "WR2":"资水邵阳北塔区饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.45,27.25 ]
+      },
+      "properties": {
+        "STNM":"邵阳",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳市狮子街",
+        "WR1":"资水邵阳开发利用区",
+        "WR2":"资水邵阳北塔区饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.49,27.29 ]
+      },
+      "properties": {
+        "STNM":"田江渡",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳市田江渡",
+        "WR1":"资水邵阳开发利用区",
+        "WR2":"资水邵阳田江渡工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.45,27.3167 ]
+      },
+      "properties": {
+        "STNM":"新邵",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"新邵县县城",
+        "WR1":"资水邵阳～冷水江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.46,27.58 ]
+      },
+      "properties": {
+        "STNM":"筱溪",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"冷水江市球溪乡筱溪峡",
+        "WR1":"资水邵阳～冷水江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.46,27.65 ]
+      },
+      "properties": {
+        "STNM":"新田",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"冷水江市新田",
+        "WR1":"资水冷水江～新化开发利用区",
+        "WR2":"资水冷水江新田饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.4333,27.6667 ]
+      },
+      "properties": {
+        "STNM":"冷水江",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"冷水江市同心乡集中村",
+        "WR1":"资水冷水江～新化开发利用区",
+        "WR2":"资水冷水江工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.39,27.72 ]
+      },
+      "properties": {
+        "STNM":"满竹",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"新化县满竹",
+        "WR1":"资水冷水江～新化开发利用区",
+        "WR2":"资水化溪～满竹过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.62,26.27 ]
+      },
+      "properties": {
+        "STNM":"老埠头",
+        "LY":"长江",
+        "CITY":"永州",
+        "RIVER":"湘江",
+        "ADDR":"芝山区老埠头",
+        "WR1":"湘江东安～永州保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.32,27.75 ]
+      },
+      "properties": {
+        "STNM":"新化",
+        "LY":"长江",
+        "CITY":"娄底",
+        "RIVER":"资水",
+        "ADDR":"新化县北塔村",
+        "WR1":"资水冷水江～新化开发利用区",
+        "WR2":"资水新化城关工业用水区                               ",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.1833,28.3833 ]
+      },
+      "properties": {
+        "STNM":"安化",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"资水",
+        "ADDR":"安化县东坪镇",
+        "WR1":"资水新化～益阳保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.1,28.55 ]
+      },
+      "properties": {
+        "STNM":"桃江",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"资水",
+        "ADDR":"桃江水文站",
+        "WR1":"资水新化～益阳保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.35,28.6 ]
+      },
+      "properties": {
+        "STNM":"益阳",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"资水",
+        "ADDR":"益阳市赫山区滨江路",
+        "WR1":"资水益阳开发利用区",
+        "WR2":"资水益阳西流湾饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3667,28.6 ]
+      },
+      "properties": {
+        "STNM":"益阳二桥",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"资水",
+        "ADDR":"益阳市赫山区二桥下500米",
+        "WR1":"资水益阳开发利用区",
+        "WR2":"资水益阳赫山工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.4167,28.6657 ]
+      },
+      "properties": {
+        "STNM":"沙头",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"资水",
+        "ADDR":"益阳市沙头镇甘溪港村",
+        "WR1":"资水益阳开发利用区",
+        "WR2":"资水益阳赫山工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.583,26.633 ]
+      },
+      "properties": {
+        "STNM":"威溪水库",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"武冈市威溪水库",
+        "WR1":"赧水玉溪武岗源头水保护区",
+        "WR2":"0",
+        "TWQ":"I",
+        "WQ":"I",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.55,26.683 ]
+      },
+      "properties": {
+        "STNM":"邓元泰",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"武冈市邓元泰镇",
+        "WR1":"赧水城步～武冈源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.85,27.0333 ]
+      },
+      "properties": {
+        "STNM":"黄桥",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"洞口县黄桥镇",
+        "WR1":"赧水武冈～邵阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.03,27.1 ]
+      },
+      "properties": {
+        "STNM":"隆回",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"隆回县城",
+        "WR1":"赧水武冈～邵阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.73,27.2167 ]
+      },
+      "properties": {
+        "STNM":"邵东",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵东县城",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.4667,27.2333 ]
+      },
+      "properties": {
+        "STNM":"邵水口",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"资水",
+        "ADDR":"邵阳市邵水河口（茅坪水文站） ",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.48,27.07 ]
+      },
+      "properties": {
+        "STNM":"金紫",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"会同县漠滨乡金紫村",
+        "WR1":"沅江（清水江）黔湘缓冲区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.7,27.1 ]
+      },
+      "properties": {
+        "STNM":"江市",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"洪江市托口镇",
+        "WR1":"沅江洪江保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.85,27.1667 ]
+      },
+      "properties": {
+        "STNM":"黔城",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"洪江市区舞水河口下游100米",
+        "WR1":"沅江洪江开发利用区",
+        "WR2":"沅江洪江工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.1333,27.3167 ]
+      },
+      "properties": {
+        "STNM":"安江",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"洪江市安江镇硖洲乡红村",
+        "WR1":"沅江洪江～桃源保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.1167,28.1 ]
+      },
+      "properties": {
+        "STNM":"浦市",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"泸溪县浦市镇桃子坳村",
+        "WR1":"沅江洪江～桃源保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.18,28.29 ]
+      },
+      "properties": {
+        "STNM":"大龙溪",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"泸溪县上堡乡湾里村",
+        "WR1":"沅江洪江～桃源保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.4,28.45 ]
+      },
+      "properties": {
+        "STNM":"沅陵",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"沅陵县沅陵镇东关街",
+        "WR1":"沅江洪江～桃源保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111,28.8 ]
+      },
+      "properties": {
+        "STNM":"五强溪",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"湖南省沅陵县五强溪水文站",
+        "WR1":"沅江洪江～桃源保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.483,28.883 ]
+      },
+      "properties": {
+        "STNM":"双洲头",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"桃源县双洲头",
+        "WR1":"沅江桃源开发利用区",
+        "WR2":"沅江桃源双洲头饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.49,28.91 ]
+      },
+      "properties": {
+        "STNM":"桃源",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"桃源县漳江镇延溪口街",
+        "WR1":"沅江桃源开发利用区",
+        "WR2":"沅江桃源城关工业用水、景观用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.59,29.06 ]
+      },
+      "properties": {
+        "STNM":"河洑",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"常德市河洑镇",
+        "WR1":"沅江桃源～常德保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.62,29.03 ]
+      },
+      "properties": {
+        "STNM":"郭家铺",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"常德市武陵区护城乡",
+        "WR1":"沅江常德开发利用区",
+        "WR2":"沅江常德落路口饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.7,29.0167 ]
+      },
+      "properties": {
+        "STNM":"常德",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"常德市武陵区东堤",
+        "WR1":"沅江常德开发利用区",
+        "WR2":"沅江常德德山工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.71,28.99 ]
+      },
+      "properties": {
+        "STNM":"德山",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"沅江",
+        "ADDR":"常德市德山",
+        "WR1":"沅江常德开发利用区",
+        "WR2":"沅江常德德山工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.133,28.917 ]
+      },
+      "properties": {
+        "STNM":"坡头",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"汉寿县坡头镇",
+        "WR1":"沅江常德～汉寿保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.4667,26.2333 ]
+      },
+      "properties": {
+        "STNM":"流团",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"通道县播阳乡流团村",
+        "WR1":"渠水源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.6333,26.3167 ]
+      },
+      "properties": {
+        "STNM":"通道",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"通道县县溪镇（通道水文站）",
+        "WR1":"渠水通道～洪江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.75,26.8333 ]
+      },
+      "properties": {
+        "STNM":"岩头",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"会同县岩头乡岩头村",
+        "WR1":"渠水通道～洪江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.0833,27.3 ]
+      },
+      "properties": {
+        "STNM":"鱼市",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"新晃县鱼市镇芒锤澳渡口",
+        "WR1":"舞水黔湘缓冲区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.68,27.44 ]
+      },
+      "properties": {
+        "STNM":"芷江",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"芷江县垅平乡柳树坪村",
+        "WR1":"舞水新晃～怀化保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.95,27.55 ]
+      },
+      "properties": {
+        "STNM":"双利坪",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"怀化鹤城区双利坪",
+        "WR1":"舞水怀化开发利用区",
+        "WR2":"舞水红岩电站饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.94,27.53 ]
+      },
+      "properties": {
+        "STNM":"湾潭",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"怀化鹤城区湾潭",
+        "WR1":"舞水怀化开发利用区",
+        "WR2":"舞水鹤城区工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.93,27.4 ]
+      },
+      "properties": {
+        "STNM":"中方",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"中方县中方镇（县城）",
+        "WR1":"舞水怀化～洪江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.81,27.21 ]
+      },
+      "properties": {
+        "STNM":"舞水河口",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"洪江市黔城镇舞水出口",
+        "WR1":"舞水洪江开发利用区",
+        "WR2":"舞水洪江饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.9667,27.5167 ]
+      },
+      "properties": {
+        "STNM":"太平溪",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"怀化市城区太平溪口",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.32,26.34 ]
+      },
+      "properties": {
+        "STNM":"城步",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"沅江",
+        "ADDR":"城步县儒林镇（水厂）",
+        "WR1":"巫水城步源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.331,26.256 ]
+      },
+      "properties": {
+        "STNM":"腊屋",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"沅江",
+        "ADDR":"城步县白毛坪乡腊屋村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.083,26.6 ]
+      },
+      "properties": {
+        "STNM":"绥宁",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"沅江",
+        "ADDR":"湖南省绥宁县城",
+        "WR1":"巫水城步-会同保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.078,26.676 ]
+      },
+      "properties": {
+        "STNM":"竹舟江",
+        "LY":"长江",
+        "CITY":"邵阳",
+        "RIVER":"沅江",
+        "ADDR":"绥宁县竹舟江苗族乡",
+        "WR1":"巫水城步-会同保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.983,27.05 ]
+      },
+      "properties": {
+        "STNM":"黄茅",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"会同县黄茅",
+        "WR1":"巫水城步-会同保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.01,27.1 ]
+      },
+      "properties": {
+        "STNM":"洪江",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"洪江市区巫水河口",
+        "WR1":"巫水洪江开发利用区",
+        "WR2":"巫水洪江工业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.54,27.43 ]
+      },
+      "properties": {
+        "STNM":"龙潭",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"溆浦县龙潭镇",
+        "WR1":"溆水溆浦源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.6,27.9167 ]
+      },
+      "properties": {
+        "STNM":"溆浦",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"溆浦县芦峰镇（溆浦水文站）",
+        "WR1":"溆水溆浦保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.47,27.72 ]
+      },
+      "properties": {
+        "STNM":"施滩",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"麻阳县郭公坪乡下施滩村",
+        "WR1":"辰水黔湘缓冲区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.85,27.8667 ]
+      },
+      "properties": {
+        "STNM":"陶伊",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"麻阳县绿溪口乡陶伊村",
+        "WR1":"辰水麻阳～辰溪保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.54,28.31 ]
+      },
+      "properties": {
+        "STNM":"大兴寨",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市大兴寨",
+        "WR1":"武水花垣～吉首源头保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.64,28.31 ]
+      },
+      "properties": {
+        "STNM":"寨阳",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市寨阳",
+        "WR1":"武水吉首保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.72,28.33 ]
+      },
+      "properties": {
+        "STNM":"狮子庵",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市吉首乡狮子庵村",
+        "WR1":"武水吉首开发利用区",
+        "WR2":"武水吉首狮子庵饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.7333,28.3167 ]
+      },
+      "properties": {
+        "STNM":"吉首",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市新桥路一中大桥",
+        "WR1":"武水吉首开发利用区",
+        "WR2":"武水吉首河溪工业、农业用水区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.81,28.25 ]
+      },
+      "properties": {
+        "STNM":"河溪",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市河溪水文站",
+        "WR1":"武水吉首～泸溪保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.7,28.25 ]
+      },
+      "properties": {
+        "STNM":"钟家寨",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市乾州新区钟家寨",
+        "WR1":"万溶江凤凰～吉首保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.75,28.2666 ]
+      },
+      "properties": {
+        "STNM":"乾洲",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"吉首市乾州街道青树坳",
+        "WR1":"万溶江吉首开发利用区",
+        "WR2":"万溶江吉首乾洲工业、农业用水区",
+        "TWQ":"IV",
+        "WQ":"IV",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.43,28.468 ]
+      },
+      "properties": {
+        "STNM":"华塘",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"龙山县华塘乡",
+        "WR1":"酉水龙山（来凤）保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.2167,28.75 ]
+      },
+      "properties": {
+        "STNM":"石堤",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"重庆市秀山县石堤乡水坝村",
+        "WR1":"酉水渝湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.971,28.717 ]
+      },
+      "properties": {
+        "STNM":"罗依溪",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"古丈县罗依溪镇",
+        "WR1":"酉水龙山～沅陵保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.31,28.71 ]
+      },
+      "properties": {
+        "STNM":"明溪口",
+        "LY":"长江",
+        "CITY":"怀化",
+        "RIVER":"沅江",
+        "ADDR":"凤滩水库坝址下游明溪口乡",
+        "WR1":"酉水龙山～沅陵保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.27,28.5 ]
+      },
+      "properties": {
+        "STNM":"茶洞",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"湖南花垣县茶洞镇",
+        "WR1":"花垣河(松桃河)渝湘缓冲区、花垣河(松桃河)黔湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.52,28.62 ]
+      },
+      "properties": {
+        "STNM":"岩板滩",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"保靖县岩板滩水文站",
+        "WR1":"花垣河花垣～保靖保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.8333,29.0167 ]
+      },
+      "properties": {
+        "STNM":"永顺",
+        "LY":"长江",
+        "CITY":"湘西",
+        "RIVER":"沅江",
+        "ADDR":"永顺县灵溪镇鹭鸶村（永顺水文站）",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.083,29.567 ]
+      },
+      "properties": {
+        "STNM":"凉水口",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"凉水口水文站",
+        "WR1":"澧水北源桑植源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 109.989,29.333 ]
+      },
+      "properties": {
+        "STNM":"上洞街",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"桑植县上洞街乡上洞街村",
+        "WR1":"澧水南源桑植源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.011,29.438 ]
+      },
+      "properties": {
+        "STNM":"陈家河",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"桑植县陈家河镇毛塔村",
+        "WR1":"澧水中源桑植源头水保护区、",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.15,29.4 ]
+      },
+      "properties": {
+        "STNM":"桑植",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"桑植县澧源镇和平西路",
+        "WR1":"澧水桑植～张家界保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.4403,29.113 ]
+      },
+      "properties": {
+        "STNM":"花岩",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"张家界市永定区花岩电站",
+        "WR1":"澧水张家界开发利用区",
+        "WR2":"澧水张家界永定饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.48,29.12 ]
+      },
+      "properties": {
+        "STNM":"张家界",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"张家界市永定区教场街",
+        "WR1":"澧水张家界开发利用区",
+        "WR2":"澧水张家界永定饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.51,29.1 ]
+      },
+      "properties": {
+        "STNM":"大溪口",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"张家界市三水厂取水口",
+        "WR1":"澧水张家界开发利用区",
+        "WR2":"澧水张家界永定饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.124853,29.428478 ]
+      },
+      "properties": {
+        "STNM":"慈利",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"慈利县县城",
+        "WR1":"澧水张家界～石门保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.27,29.58 ]
+      },
+      "properties": {
+        "STNM":"分路铺",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"慈利县分路铺",
+        "WR1":"澧水张家界～石门保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.38,29.57 ]
+      },
+      "properties": {
+        "STNM":"三江口大桥",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"石门县三江口大桥",
+        "WR1":"澧水石门开发利用区",
+        "WR2":"澧水石门三江口饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.39,29.6 ]
+      },
+      "properties": {
+        "STNM":"石门",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"石门县楚江镇九澧路",
+        "WR1":"澧水石门开发利用区",
+        "WR2":"澧水石门工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.67,29.62 ]
+      },
+      "properties": {
+        "STNM":"滟洲电站",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"澧县滟洲电站",
+        "WR1":"澧水石门～澧县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.75,29.62 ]
+      },
+      "properties": {
+        "STNM":"澧县",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"澧县澧阳镇澹阳居委会（澧县水文站）",
+        "WR1":"澧水澧县～津市开发利用区",
+        "WR2":"澧水澧县城关工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.84,29.61 ]
+      },
+      "properties": {
+        "STNM":"大石桥",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"津市大石桥",
+        "WR1":"澧水澧县～津市开发利用区",
+        "WR2":"澧水宋家渡～津市过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.85,29.6333 ]
+      },
+      "properties": {
+        "STNM":"津市",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"津市市阳由乡阳由村",
+        "WR1":"澧水澧县～津市开发利用区",
+        "WR2":"澧水津市金鱼岭饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.48,28.91 ]
+      },
+      "properties": {
+        "STNM":"小渡口",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"津市市小渡口",
+        "WR1":"澧水澧县～津市开发利用区",
+        "WR2":"澧水津市城关工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.55,29.35 ]
+      },
+      "properties": {
+        "STNM":"索水大坝",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"武陵源索溪峪施家落村（武陵源水文站）",
+        "WR1":"索水武陵源自然保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.67,29.48 ]
+      },
+      "properties": {
+        "STNM":"双枫潭",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"张家界市双枫潭水文站",
+        "WR1":"索水张家界～慈利保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.3833,29.6339 ]
+      },
+      "properties": {
+        "STNM":"淋溪河",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"桑植县淋溪河水文站",
+        "WR1":"溇水鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.0167,29.4667 ]
+      },
+      "properties": {
+        "STNM":"长潭河",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"慈利县零阳镇长青村",
+        "WR1":"溇水慈利保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.4833,29.7667 ]
+      },
+      "properties": {
+        "STNM":"铁炉镇   （江口）",
+        "LY":"长江",
+        "CITY":"张家界",
+        "RIVER":"澧水",
+        "ADDR":"湖北省鹤峰县铁炉镇",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.77,29.94 ]
+      },
+      "properties": {
+        "STNM":"壶瓶山",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"石门县壶瓶山镇",
+        "WR1":"渫水壶瓶山自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.2333,29.6667 ]
+      },
+      "properties": {
+        "STNM":"皂市",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"澧水",
+        "ADDR":"石门县皂市镇十家坪村",
+        "WR1":"渫水石门保留区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.86,28.69 ]
+      },
+      "properties": {
+        "STNM":"湘阴",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"湘阴县文星镇",
+        "WR1":"湘江东支洪道保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.82,28.76 ]
+      },
+      "properties": {
+        "STNM":"斗米嘴",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"湘阴县斗米嘴",
+        "WR1":"湘江洪道西支湘阴保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.32,28.61 ]
+      },
+      "properties": {
+        "STNM":"长春",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"益阳市资阳区长春镇南门桥村",
+        "WR1":"资水洪道甘溪港保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.551767,28.721641 ]
+      },
+      "properties": {
+        "STNM":"瓦石矶",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"益阳市资阳区瓦石矶",
+        "WR1":"资水洪道沙杨保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.73,28.7 ]
+      },
+      "properties": {
+        "STNM":"临资口",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"湘阴市临资口",
+        "WR1":"资水洪道毛角口保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.9,29.61 ]
+      },
+      "properties": {
+        "STNM":"沙河口",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"津市市沙河口",
+        "WR1":"澧水洪道保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 114.033,28.8 ]
+      },
+      "properties": {
+        "STNM":"加义",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"平江县加义水文站",
+        "WR1":"汨罗江江东源修水^平江源头水保护区",
+        "WR2":"0",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.56,28.7 ]
+      },
+      "properties": {
+        "STNM":"平江",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"平江县县城",
+        "WR1":"汨罗江平江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.3,28.85 ]
+      },
+      "properties": {
+        "STNM":"伍市",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"平江县伍市镇（伍市水文站）",
+        "WR1":"汨罗江平江保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.12,28.8 ]
+      },
+      "properties": {
+        "STNM":"汨罗",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"汨罗市水厂取水水域",
+        "WR1":"汨罗江汨罗开发利用区",
+        "WR2":"汨罗江汨罗饮用水源区",
+        "TWQ":"II",
+        "WQ":"II",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.5,29.15 ]
+      },
+      "properties": {
+        "STNM":"金凤",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳金凤水库",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.41,29.34 ]
+      },
+      "properties": {
+        "STNM":"桃林",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"临湘县桃林县无冲村（桃林水文站）",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.511,29.16 ]
+      },
+      "properties": {
+        "STNM":"铁山",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳铁山水库",
+        "WR1":"新墙河岳阳铁山水库开发利用区",
+        "WR2":"新墙河铁山水库饮用水源区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.15,29.16 ]
+      },
+      "properties": {
+        "STNM":"荣家湾",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳县荣家湾镇水厂",
+        "WR1":"新墙河岳阳保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.99,28.93 ]
+      },
+      "properties": {
+        "STNM":"磊石",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"汨罗市磊石镇",
+        "WR1":"汨罗江汨罗保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.033,29.7 ]
+      },
+      "properties": {
+        "STNM":"青龙窖",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"湖北省公安县杨家档",
+        "WR1":"松滋河中支鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.067,29.467 ]
+      },
+      "properties": {
+        "STNM":"汇口",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"安乡县安丰乡",
+        "WR1":"松滋河西支安乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.1,29.66 ]
+      },
+      "properties": {
+        "STNM":"焦圻",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"常德市安乡县焦圻镇永兴",
+        "WR1":"松滋河东支鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.15,29.48 ]
+      },
+      "properties": {
+        "STNM":"沙湖口",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"常德市安乡县安障乡沙湖口",
+        "WR1":"松滋河东支安乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.15,29.4 ]
+      },
+      "properties": {
+        "STNM":"安乡",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"常德市安乡县城",
+        "WR1":"松滋西河（中支）安乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.19,29.61 ]
+      },
+      "properties": {
+        "STNM":"黄山头闸",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"湖北省公安县黄山头镇",
+        "WR1":"虎渡河湘卾缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.21,29.48 ]
+      },
+      "properties": {
+        "STNM":"安昌",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"常德市安乡县安昌",
+        "WR1":"虎渡河安乡保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.33,29.68 ]
+      },
+      "properties": {
+        "STNM":"藕池口",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"湖北省公安县藕池镇",
+        "WR1":"藕池河(东支）鄂湘缓冲区、藕池河（西支）鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3,29.517 ]
+      },
+      "properties": {
+        "STNM":"梅田湖",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"华容县梅田湖镇梅田村",
+        "WR1":"藕池河东支鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.483,29.333 ]
+      },
+      "properties": {
+        "STNM":"北景港",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"华容县北景港镇",
+        "WR1":"藕池河东支华容保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.44,29.36 ]
+      },
+      "properties": {
+        "STNM":"南县",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"益阳市南县南洲镇",
+        "WR1":"藕池河（东支）华容保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.316,29.528 ]
+      },
+      "properties": {
+        "STNM":"友谊",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"华容县梅田湖镇友谊村天心洲",
+        "WR1":"藕池河中支鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.583,29.7 ]
+      },
+      "properties": {
+        "STNM":"浪拔湖",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"南县浪拔湖镇",
+        "WR1":"藕池河（中支）南县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3333,29.083 ]
+      },
+      "properties": {
+        "STNM":"三仙湖",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"南县三仙湖镇 ",
+        "WR1":"沱江南县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.26,29.2 ]
+      },
+      "properties": {
+        "STNM":"下柴市",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"益阳市南县下柴市",
+        "WR1":"藕池河（西支）安乡~南县保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.408,29.546 ]
+      },
+      "properties": {
+        "STNM":"鲇市",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳市华容县鲇市",
+        "WR1":"鲇鱼须河鄂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.444,29.398 ]
+      },
+      "properties": {
+        "STNM":"张家湾大桥",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"华容县操军镇洲子村",
+        "WR1":"鲇鱼须河华容保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.7655,29.4666 ]
+      },
+      "properties": {
+        "STNM":"华容河口",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"华容县北洲芦苇场",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.74,29.1 ]
+      },
+      "properties": {
+        "STNM":"漉湖",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"沅江市漉湖",
+        "WR1":"东洞庭湖自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.318,28.9166 ]
+      },
+      "properties": {
+        "STNM":"白沙",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"沅江市白沙大桥",
+        "WR1":"南洞庭湖湿地生态保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.3167,29.05 ]
+      },
+      "properties": {
+        "STNM":"茅草街",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"沅江市茅草街",
+        "WR1":"南洞庭湖湿地生态保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.7667,28.8167 ]
+      },
+      "properties": {
+        "STNM":"横岭湖",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"湘阴市横岭湖",
+        "WR1":"南洞庭湖湿地生态保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.38,28.85 ]
+      },
+      "properties": {
+        "STNM":"万子湖",
+        "LY":"长江",
+        "CITY":"益阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"沅江市万子湖",
+        "WR1":"南洞庭湖湿地生态保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113,29.15 ]
+      },
+      "properties": {
+        "STNM":"鹿角",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳县鹿角",
+        "WR1":"东洞庭湖自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113,29.4 ]
+      },
+      "properties": {
+        "STNM":"君山",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳市君山区君山公园",
+        "WR1":"东洞庭湖自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.85,29.48 ]
+      },
+      "properties": {
+        "STNM":"鸟类保护区",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"洞庭湖",
+        "ADDR":"岳阳市鸟类保护区",
+        "WR1":"东洞庭湖自然保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.2067,28.8166 ]
+      },
+      "properties": {
+        "STNM":"蒋家咀",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖",
+        "ADDR":"汉寿县蒋家咀",
+        "WR1":"目平湖湿地保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 112.81,29.72 ]
+      },
+      "properties": {
+        "STNM":"塔市",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"长江",
+        "ADDR":"华容县塔市五码头",
+        "WR1":"长江监利～洪湖保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.17,29.46 ]
+      },
+      "properties": {
+        "STNM":"城陵矶",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"长江",
+        "ADDR":"岳阳市城陵矶",
+        "WR1":"长江岳阳开发利用区",
+        "WR2":"长江岳阳工业、农业用水区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.33,29.65 ]
+      },
+      "properties": {
+        "STNM":"儒溪",
+        "LY":"长江",
+        "CITY":"岳阳",
+        "RIVER":"长江",
+        "ADDR":"临湘市儒溪镇",
+        "WR1":"长江岳阳开发利用区",
+        "WR2":"长江岳阳过渡区",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.9167,29.8667 ]
+      },
+      "properties": {
+        "STNM":"卷桥水库",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖区",
+        "ADDR":"澧县复兴场镇",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.7,27.85 ]
+      },
+      "properties": {
+        "STNM":"塘坊",
+        "LY":"长江",
+        "CITY":"株洲",
+        "RIVER":"湘江",
+        "ADDR":"醴陵市富里镇塘坊村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.6,29.9 ]
+      },
+      "properties": {
+        "STNM":"界溪河",
+        "LY":"长江",
+        "CITY":"常德",
+        "RIVER":"洞庭湖区",
+        "ADDR":"澧县界岭乡界溪河村",
+        "WR1":"0",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.07,24.95 ]
+      },
+      "properties": {
+        "STNM":"大田",
+        "LY":"珠江",
+        "CITY":"永州",
+        "RIVER":"西江",
+        "ADDR":"江永县源口瑶族自治乡大田村",
+        "WR1":"恭城河上游桂湘缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 111.1,25.105 ]
+      },
+      "properties": {
+        "STNM":"桃川",
+        "LY":"珠江 ",
+        "CITY":"永州",
+        "RIVER":"西江",
+        "ADDR":"永州江永县桃川镇",
+        "WR1":"恭城河江永保留区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.958,25.076 ]
+      },
+      "properties": {
+        "STNM":"黄沙湾",
+        "LY":"珠江 ",
+        "CITY":"永州",
+        "RIVER":"西江",
+        "ADDR":"广西恭城县龙虎乡黄沙湾村",
+        "WR1":"恭城河湘桂缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.926,25.602 ]
+      },
+      "properties": {
+        "STNM":"集益",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"赣江",
+        "ADDR":"汝城县集益乡",
+        "WR1":"集龙江（上犹江）源头水保护区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 113.938,25.606 ]
+      },
+      "properties": {
+        "STNM":"老屋子",
+        "LY":"长江",
+        "CITY":"郴州",
+        "RIVER":"鄱阳湖",
+        "ADDR":"郴州市汝城县",
+        "WR1":"集龙江（上犹江）湘赣缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":  [ 110.064,26.212 ]
+      },
+      "properties": {
+        "STNM":"长安营乡",
+        "LY":"珠江 ",
+        "CITY":"邵阳",
+        "RIVER":"西江",
+        "ADDR":"城步县长安营乡",
+        "WR1":"平等河湘桂缓冲区",
+        "WR2":"0",
+        "TWQ":"III",
+        "WQ":"III",
+        "RESULT":"达标"
+      }
+    }
+  ]
+}
